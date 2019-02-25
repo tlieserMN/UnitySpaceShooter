@@ -1,0 +1,4 @@
+#Sun Feb 24 21:49:16 CST 2019
+base.0=/Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
