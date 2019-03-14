@@ -3,9 +3,27 @@ guid: ccba8914ead624944accad8e8d0785d1
 TextureImporter:
   fileIDToRecycleName:
     21300000: Enemy01
-    21300002: sheet_1
+    21300002: EnemyBullet
     21300004: PlayerShip
     21300006: Bullet01
+    21300008: PlayerShip
+    21300010: sheet_1
+    21300012: sheet_2
+    21300014: sheet_3
+    21300016: sheet_4
+    21300018: sheet_5
+    21300020: sheet_6
+    21300022: sheet_7
+    21300024: sheet_8
+    21300026: sheet_9
+    21300028: sheet_10
+    21300030: sheet_11
+    21300032: sheet_12
+    21300034: sheet_13
+    21300036: sheet_14
+    21300038: PlayerBullet
+    21300040: EnemyShip
+    21300042: HealthPack
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -113,50 +131,30 @@ TextureImporter:
       name: PlayerShip
       rect:
         serializedVersion: 2
-        x: 211
-        y: 4
-        width: 99
-        height: 80
+        x: 212
+        y: 8
+        width: 97
+        height: 75
       alignment: 9
-      pivot: {x: 0.5, y: 0.35}
+      pivot: {x: 0.5, y: 0.3}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a17dd5256c204b42b9898d1b574ec9d
+      spriteID: c712597e23bfe4877824cda5504d1642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy01
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 337
-        width: 104
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 2}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffa3ce0436e4d4ea59f6dee6cd68ec69
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bullet01
+      name: PlayerBullet
       rect:
         serializedVersion: 2
         x: 856
-        y: 212
+        y: 213
         width: 9
-        height: 37
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,7 +162,67 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d832993326bf7407bb2dafcfe2cce527
+      spriteID: 9561f3ea07b3d4f0d90ffeaa3e6455e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyShip
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 785
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e056c8e681537423394620c88a8a4d52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 857
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab141b35a597b486bb78663f69446d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthPack
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 345
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925ecb8f2c5924fe2a4abd2e930e7d88
       vertices: []
       indices: 
       edges: []

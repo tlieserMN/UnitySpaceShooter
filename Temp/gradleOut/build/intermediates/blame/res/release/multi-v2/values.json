@@ -14,12 +14,12 @@
                         "endOffsets": "286,188,513"
                     },
                     "to": {
-                        "startLines": "3,5,8",
+                        "startLines": "6,8,11",
                         "startColumns": "4,4,4",
-                        "startOffsets": "100,200,338",
-                        "endLines": "4,7,11",
+                        "startOffsets": "244,344,482",
+                        "endLines": "7,10,14",
                         "endColumns": "8,8,8",
-                        "endOffsets": "195,333,560"
+                        "endOffsets": "339,477,704"
                     }
                 },
                 {
@@ -32,11 +32,21 @@
                         "endOffsets": "93"
                     },
                     "to": {
-                        "startLines": "2",
+                        "startLines": "5",
                         "startColumns": "4",
-                        "startOffsets": "55",
+                        "startOffsets": "199",
                         "endColumns": "44",
-                        "endOffsets": "95"
+                        "endOffsets": "239"
+                    }
+                },
+                {
+                    "source": "/Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/13da45942b6726f7c08152c159942901/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
                     }
                 }
             ]

@@ -1,7 +1,24 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{E64E2042-690B-E8F2-39CE-F0889F6B26CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HealthPackSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="10" Column="5" />
+      <File FileName="Assets/Scripts/CameraFollower.cs" Line="23" Column="47" />
+      <File FileName="Assets/Scripts/DamageHandler.cs" Line="15" Column="18" />
+      <File FileName="Assets/Scripts/PlayerShooting.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/MoveForward.cs" Line="16" Column="34" />
+      <File FileName="Assets/Scripts/FacesPlayer.cs" Line="8" Column="33" />
+      <File FileName="Assets/Scripts/SelfDestroy.cs" Line="12" Column="9" />
+      <File FileName="Assets/Scripts/EnemyShooting.cs" Line="19" Column="10" />
+      <File FileName="Assets/Scripts/PlayerSpawner.cs" Line="33" Column="40" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="26" Column="13" />
+      <File FileName="Assets/Scripts/ScoreHandler.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/HealthHandler.cs" Line="23" Column="5" />
+      <File FileName="Assets/Scripts/HealthPackSpawner.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

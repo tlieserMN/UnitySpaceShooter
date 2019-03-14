@@ -4,6 +4,7 @@ ADDED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [:app-debug:] /Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/674cd10cb643993957c8fef5b6ff48e7/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-22:12
@@ -131,6 +132,8 @@ uses-sdk
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:app-debug:] /Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/674cd10cb643993957c8fef5b6ff48e7/AndroidManifest.xml:15:5-17:41
+MERGED from [:app-debug:] /Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/674cd10cb643993957c8fef5b6ff48e7/AndroidManifest.xml:15:5-17:41
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml
 INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -141,3 +144,15 @@ INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/
 		INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml
 		ADDED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml
 		INJECTED from /Users/thomaslieser/Desktop/Unity projects/My Game/Temp/gradleOut/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:app-debug:] /Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/674cd10cb643993957c8fef5b6ff48e7/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [:app-debug:] /Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/674cd10cb643993957c8fef5b6ff48e7/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:app-debug:] /Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/674cd10cb643993957c8fef5b6ff48e7/AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from [:app-debug:] /Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/674cd10cb643993957c8fef5b6ff48e7/AndroidManifest.xml:20:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:app-debug:] /Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/674cd10cb643993957c8fef5b6ff48e7/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from [:app-debug:] /Users/thomaslieser/.gradle/caches/transforms-1/files-1.1/app-debug.aar/674cd10cb643993957c8fef5b6ff48e7/AndroidManifest.xml:21:22-78

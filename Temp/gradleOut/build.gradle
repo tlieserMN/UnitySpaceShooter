@@ -26,10 +26,11 @@ apply plugin: 'com.android.application'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation(name: 'app-debug', ext:'aar')
 }
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 28
     buildToolsVersion '28.0.3'
 
     compileOptions {
@@ -39,7 +40,7 @@ android {
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 26
+        targetSdkVersion 28
         applicationId 'com.Lieser.MyGame'
         ndk {
             abiFilters 'armeabi-v7a', 'x86'

@@ -7,7 +7,7 @@
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="28" />
 
     <supports-screens
         android:anyDensity="true"
@@ -29,6 +29,10 @@
     <uses-feature
         android:name="android.hardware.touchscreen.multitouch.distinct"
         android:required="false" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
         android:banner="@drawable/app_banner"
@@ -57,7 +61,7 @@
 
         <meta-data
             android:name="unity.build-id"
-            android:value="082db998-c004-4dd0-8300-175105a730d1" />
+            android:value="d8377cc7-26b6-4ed9-8719-097f281af48b" />
         <meta-data
             android:name="unity.splash-mode"
             android:value="0" />
